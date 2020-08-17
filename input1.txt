@@ -1,0 +1,7 @@
+.input a b c d
+.output 1 2 3 4 5
+.1 ab' + cd + a + abcd'
+.2 b + a'c'd' + acd + bd
+.3 bc + a'd' + a'c'd
+.4 (a+b+c+d')(a'+b'+c+d')
+.5 abcd + bcd + a
