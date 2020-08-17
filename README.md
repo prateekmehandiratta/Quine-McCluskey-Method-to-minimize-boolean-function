@@ -1,0 +1,1 @@
+# Quine-McCluskey-Method-to-minimize-boolean-function
